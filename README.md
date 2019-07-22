@@ -1,4 +1,4 @@
-# DynamicLoadBalancing
+#Client-Server-Load-Balancer
 This is a set of programs that demonstrates how a server can divide and assign work to multiple clients in a distributed environment.
 
 Requirements: Python 3.6, Windows
